@@ -5,3 +5,5 @@ Arithmetic Ciphers: each of these have relativly small keyspaces so I made them 
 1. Caesar Cipher - takes the values of each latin character as an array indexed 0 and adds a certain key (modulo 26)
 2. Multiplicative Cipher - takes value adn multiplies with number relativly prime to 26
 3. Affine Cipher - Multiplicative Cipher followed by a Caesar shift, two encryptions in one
+
+NOTE: KLING KRACKER IS CURRENTLY UNOPERABLE IN THE AFFINE CIPHER AND WILL NOT BE UNTIL I CAN PRIORITIZE IT ON A LATER DATE, IT WILL BE UPADTED TO INCLUDE A VARIETY OF CIPHERS LATER ON, INCLUDING MY FINAL PROJECT
