@@ -1,6 +1,8 @@
 # Cryptography-Class
 This is where all my crypt stuff goes, it's pretty fresh not gonna lie
 
+Update: The Neely Enigma Machine has been uploaded and contains a GUI with all the 8 private key ciphers learned this trimester in Cryptography
+
 Arithmetic Ciphers: each of these have relativly small keyspaces so I made them into "brute force" programs that run all possible keys at once for an inputted string
 1. Caesar Cipher - takes the values of each latin character as an array indexed 0 and adds a certain key (modulo 26)
 2. Multiplicative Cipher - takes value and multiplies with number relativly prime to 26
@@ -18,5 +20,3 @@ Matrix Ciphers: these require keys in the form of matrices
 8. Playfair - a 5x5 Matrix made from 25 latin characters, use special rules made from digrpahs from the inputted string, divisibility by 2
 
 //NOTE: KLING KRACKER IS CURRENTLY UNOPERABLE IN THE AFFINE CIPHER AND WILL NOT BE UNTIL I CAN PRIORITIZE IT ON A LATER DATE, IT WILL BE //UPADTED TO INCLUDE A VARIETY OF CIPHERS LATER ON, INCLUDING MY FINAL PROJECT
-
-Update: The Neely Enigma Machine has been uploaded and contains a GUI with all the 8 private key ciphers learned this trimester in Cryptography
