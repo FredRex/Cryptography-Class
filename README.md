@@ -6,11 +6,13 @@ Arithmetic Ciphers: each of these have relativly small keyspaces so I made them 
 2. Multiplicative Cipher - takes value and multiplies with number relativly prime to 26
 3. Affine Cipher - Multiplicative Cipher followed by a Caesar shift, two encryptions in one
 
-Word-Based Ciphers:
+Word-Based Ciphers: these also run brute force
+
 4. Codeward Cipher - create a new alphabet using a codeword special letter and using the positions in that alphabet to form encrypted way of writing
 5. Vigenere - uses a codeword and a 26x26 matrix called a "tabula recta" to form an encrypted form of writing
 
-Matrix Ciphers:
+Matrix Ciphers: these require keys in the form of matrices
+
 2x2 Hill Cipher - uses a 2x2 matrix made with integers modulo 26 to multiply the value of digraphs made from a string of latin characters, the program will add null characters like "x" or "q" if the inputted string is not divisible by 2
 3x3 Hill Cipher - same as 2x2 but with Trigraphs and divisiblity by 3 needed by strings
 Playfair - a 5x5 Matrix made from 25 latin characters, use special rules made from digrpahs from the inputted string, divisibility by 2
