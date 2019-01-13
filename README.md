@@ -1,6 +1,8 @@
 # Cryptography-Class
 This is where all my crypt stuff goes, it's pretty fresh not gonna lie
 
+To use the Neely Enigma Machine, download the .zip folder from the Neely Enigma Machine directory and remember to read the PDF Instruction Manual, thank you for using this software!
+
 Update: The Neely Enigma Machine has been uploaded and contains a GUI with all the 8 private key ciphers learned this trimester in Cryptography
 
 Arithmetic Ciphers: each of these have relativly small keyspaces so I made them into "brute force" programs that run all possible keys at once for an inputted string
