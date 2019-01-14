@@ -21,4 +21,4 @@ Matrix Ciphers: these require keys in the form of matrices
 7. 3x3 Hill Cipher - same as 2x2 but with Trigraphs and divisiblity by 3 needed by strings
 8. Playfair - a 5x5 Matrix made from 25 latin characters, use special rules made from digrpahs from the inputted string, divisibility by 2
 
-//NOTE: KLING KRACKER IS CURRENTLY UNOPERABLE IN THE AFFINE CIPHER AND WILL NOT BE UNTIL I CAN PRIORITIZE IT ON A LATER DATE, IT WILL BE //UPADTED TO INCLUDE A VARIETY OF CIPHERS LATER ON, INCLUDING MY FINAL PROJECT
+NOTE: KLING KRACKER IS CURRENTLY UNOPERABLE IN THE AFFINE CIPHER AND WILL NOT BE UNTIL I CAN PRIORITIZE IT ON A LATER DATE, IT WILL BE UPADTED TO INCLUDE A VARIETY OF CIPHERS LATER ON, INCLUDING MY FINAL PROJECT
